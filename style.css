@@ -1,0 +1,39 @@
+body {
+  background-image: url(/a6efe9c11e3b2a0ca82ea7123ff3ea4625df11ba.jpg);
+  padding: 20px;
+  text-align: center;
+}
+h1 {
+  color: whitesmoke;
+}
+
+.container {
+  height: 200px;
+  width: 200px;
+
+  margin: auto;
+}
+img {
+  height: 200;
+  width: 200px;
+  margin: 2px;
+  border-radius: 20px;
+}
+p {
+  color: white;
+  display: flex;
+  align-content: center;
+
+}
+.contacts {
+    
+    margin: auto;
+    border-bottom: lightcoral dotted 5px;
+    width: 400px;
+    display: flex;
+    padding-top: 50px;
+;
+}
+.containers {
+    margin-top: 100px;
+}
