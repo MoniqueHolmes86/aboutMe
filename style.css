@@ -1,5 +1,6 @@
 body {
-  background-image: url(/a6efe9c11e3b2a0ca82ea7123ff3ea4625df11ba.jpg);
+  background-image: url("a6efe9c11e3b2a0ca82ea7123ff3ea4625df11ba.jpg");
+  background-size: cover;
   padding: 20px;
   text-align: center;
 }
